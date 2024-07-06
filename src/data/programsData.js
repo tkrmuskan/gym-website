@@ -50,6 +50,3 @@ export const programsData = [
       "This programs is designed for those who exercises only for their body fitness not body building.",
   },
 ];
-
-
-
